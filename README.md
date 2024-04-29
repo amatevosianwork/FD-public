@@ -30,7 +30,7 @@ Features include:
 ### FooDriverRegistry
 
 Acts as the central hub for:
-- **Role Management**: Defines roles like admins, store owners, and service providers, and assigns permissions.
+- **Role Management**
 - **Contract Interactions**: Facilitates interactions between different contracts, ensuring that operations such as token transfers, store creation, and order management are executed securely and in accordance with platform rules.
 
 ### FooDriverFactory
