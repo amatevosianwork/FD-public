@@ -22,7 +22,6 @@ This ERC20 token acts as the currency within the FooDriver platform. It is used 
 
 - **Transactions**: Payments for services within the platform.
 - **Rewards**: Incentivizing users and service providers.
-- **Governance**: Voting on platform decisions (if governance features are implemented).
 
 Features include:
 - **Public and Private Sales**: Mechanisms for token distribution before the platform becomes fully operational.
